@@ -1,0 +1,10 @@
+{
+  "method": "POST",
+  "body": 
+  {   
+    "order_id": "order1",
+    "customer_name": "vinee",
+    "customer_email": "vineenot@gmail.com",
+    "menu_id": "menu1"
+  }
+}
